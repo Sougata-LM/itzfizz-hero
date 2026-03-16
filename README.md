@@ -5,7 +5,7 @@
 
 ## ✦ Live Demo
 
-**[View Live →](https://YOUR_USERNAME.github.io/itzfizz-hero)**
+**[View Live →](https://Sougata-LM.github.io/itzfizz-hero)**
 
 ## ✦ Features
 
